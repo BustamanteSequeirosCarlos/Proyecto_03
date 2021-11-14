@@ -26,6 +26,7 @@ Y he realizado consultas con los operadores:
 Y como aportación persona he añadido:
 
 - Metodo .sort
+- Operador $size
 
 ## Instalación
 
