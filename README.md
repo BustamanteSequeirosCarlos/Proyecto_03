@@ -1,4 +1,4 @@
-#Proyecto Final de MongoDB
+# Proyecto Final de MongoDB
 
 Esta es una base de datos creada como proyecto final del primer trismetre de la asignatura de Gestion de Base de Datos
 
@@ -27,7 +27,7 @@ Y como aportación persona he añadido:
 
 - Metodo .sort
 
-##Instalación
+## Instalación
 
 Puedes instalar esta base de datos si tienes mongoDB en tu ordenador mediante la consola utilizando el comando
 *>db.monitores.insertMany([])* y añadiendo todos los documentos que se encuentran en el archivo **inserts.js** o utilizando el comando  *>load("inserts.js")* con la ruta completa de archivo
